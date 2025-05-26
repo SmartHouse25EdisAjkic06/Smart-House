@@ -21,24 +21,24 @@
 - [Skiciranje porzora na zidovima]
 - [Rezanje otvora za vrata i prozore]
 - [Obrada ivica i lijepljenje zidova]
-- ## 📅 Sedmica 3: Priprema drugog sprata i postavljanje prozora  23-12-2024 - 27-12-2024
+## 📅 Sedmica 3: Priprema drugog sprata i postavljanje prozora  23-12-2024 - 27-12-2024
 **Vrijeme rada:** Časovi praktične nastave  
 **Opis aktivnosti:** U trećoj sedmici smo izvršili postavljanje prozora. Pronašli smo male baglame i šarafiće koji su nam poslužili za postavljanje prozora.Oni su dimenzija 7cm x 7cm, svaki je postavljen tako da se može otvoriti u svakom trenutku.Prozori su također napravljani od tanke špere koji su izrezani laserom. U dogovoru sa kolegama odlučili smo da drugi sprat napravimo kao polovinu prvog sprata kako bi nam svaki dio makete bio lako dostupan i pregledan. Uz pomoć bušilice i ubodne pile pripremili smo stranice gornjeg sprata,pregrade
 i izrezali smo otvore za prozore.
 - [Bušenje i pričvršćivanje baglama za prozore]
 - [Rezanje stranica i otvora za drugi sprat]
 - [Obrada ivica]
-- ## 📅 Sedmica 4: Lijepljenje drugog sprata i skiciranje krova   27-1-2025 - 31-1-2025
+## 📅 Sedmica 4: Lijepljenje drugog sprata i skiciranje krova   27-1-2025 - 31-1-2025
 **Vrijeme rada:** Časovi praktične nastave  
 **Opis aktivnosti:** U četvrtoj sedmici smo izvršili lijepljenje zidova drugog sprata i pripremanje krova.Za rezanje krova koristili smo ubodnu pilu. 
 - [Skiciranje i rezanje krova]
 - [Sklapanje drugog sprata]
--  ## 📅 Sedmica 5: Lijepljenje krova   3-2-2025 - 7-2-2025
+## 📅 Sedmica 5: Lijepljenje krova   3-2-2025 - 7-2-2025
 **Vrijeme rada:** Časovi praktične nastave  
 **Opis aktivnosti:** U petoj sedmici smo izvršili lijepljenje krova sa ljepkom za drvo i fiksirali smo kuću uz podlogu.Nakon što smo napravili maketu naše pametne kuće na red je došlo pripremanje i pisanje kodova. 
 - [Lijepljenje krova i fiksiranje kuće za podlogu]
 - [Pripremanje arduino kodova]
--  ## 📅 Sedmica 6: Pripremanje arduino koda za otvaranje klizne kapije    10-2-2025 - 14-2-2025
+## 📅 Sedmica 6: Pripremanje arduino koda za otvaranje klizne kapije    10-2-2025 - 14-2-2025
 **Vrijeme rada:** Časovi praktične nastave  
 **Opis aktivnosti:** U šestoj sedmici smo izvršili pripremanje arduino koda za ulaznu kapiju i upoznavanje sa komponentama potrebnim za ovaj dio rada.Naučili smo potrebne funkcije u pisanju koda i funkcionisanje H-mosta i čitača kartice. Otvaranje kapije vršit ćemo preko arduino čitača kartice. Ako je kartica ispravna vrata se otvaraju. Za simulaciju otvaranja kapije iznutra koristili smo taster. Promjenu smjera okretanja motora vršili smo uz pomoć H- mosta.Funkcionisanje sklopa isprobali smo na eksperimentalnoj pločici.Elementi sklopa su : Arduino Nano, taster, čitač kartice, DC-motor,H-most.Nakon uspječnog testiranja napravili smo shemu spajanja.
 - [Pripremanje koda]
