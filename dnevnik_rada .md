@@ -1,14 +1,14 @@
 # 📘 Dnevnik rada
 
-## Projekat: [Naziv projekta]
-### Autor: [Tvoje ime]
-### Datum početka: [npr. 2025-05-26]
+## Projekat: [Smart House]
+### Autor: [Edis Ajkić]
+### Datum početka: [16-12-2024]
 
 ---
 
-## 📅 2025-05-26
+## 📅 Sedmica 1: Planiranje i priprema [ 16-12-2024 - 20-12-2024]
 
-**Vreme rada:** [npr. 2h]  
+**Vreme rada:** []  
 **Opis aktivnosti:**  
 - [Aktivnost 1]
 - [Aktivnost 2]
