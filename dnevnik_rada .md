@@ -151,7 +151,7 @@ i izrezali smo otvore za prozore.
 - [Lemljenje i lijepljenje elemenata]
 ## 📅 Sedmica 23: Spajanje svih elementa na komandnoj ploč 28-4-2025 - 2-5-2025
 **Vrijeme rada:** Časovi praktične nastave  
-**Opis aktivnosti:** U dvadesetrećoj sedmici smo izvršili spajanje, ispitivanje svih elemenata sklopa na sabirnice releji i H-mostove.Prenijeli smo kod na Arduino mikrokontrolere i izradili napajanje za njih.Za napajanje smo uzeli napojnu jedinicu iz računara i doveli smo napajanje na mikrokontrolere.Pustili smo u rad komandnu ploču i uspješno izvršili završno testiranje svih elemenata našeg projekta.
+**Opis aktivnosti:** U dvadesetrećoj sedmici smo izvršili spajanje, ispitivanje svih elemenata sklopa na sabirnice releje i H-mostove.Prenijeli smo kod na Arduino mikrokontrolere i izradili napajanje za njih.Za napajanje smo uzeli napojnu jedinicu iz računara i doveli smo napajanje na mikrokontrolere.Pustili smo u rad komandnu ploču i uspješno izvršili završno testiranje svih elemenata našeg projekta.
 - [Povezivanje svih elemenata]
 - [Prenos koda na mikrokotrolere]
 - [Dovođenje napajanja]
