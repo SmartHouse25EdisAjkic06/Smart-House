@@ -2,7 +2,7 @@
 
 ## Projekat: Smart House
 ### Autor: Edis Ajkić
-### Datum početka: 16-12-2024
+### Datum početka: 11-11-2024
 
 ---
 
