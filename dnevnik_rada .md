@@ -45,6 +45,32 @@ i izrezali smo otvore za prozore.
 - [Pripremanje komponenata i spajanje sklopa na eksperimentalnoj pločici]
 - [Ispitivanje funkcionalnosti sistema]
 - [Crtanje shema]
+ ## 📅 Sedmica 7: Implementcija projekta na maketi    17-2-2025 - 21-2-2025
+**Vrijeme rada:** Časovi praktične nastave  
+**Opis aktivnosti:** U sedmoj sedmici smo izvršili postavljanje ograde na maketi.Izrezali smo komad ploče i zalijepili smo ga ljepilom za drvo na podlogu makete.Izbušili smo rupe za taster i postavili ga , zatim smo izbušili rupu za prolazak kabla od motora i mostavili motor.Za kapiju smo uzeli komad plastike i toplim lijepkom zalijepili šinu, a na motor smo stavili zupčanik koji će upravljati šinom.Zbog  male težine plastične kapije imali smo određene probleme pa smo morali dodati matice koje su otežale kapiju, te je šina nalegla na zupčanik motora.Napravili smo probni test i on je bio uspješan.
+- [Rezanje i lijepljenje ograde]
+- [Postavljanje motora]
+- [Postavljanje klizne kapije]
+- [Probno testiranje]
+ ## 📅 Sedmica 8: Pripremanje arduino koda za ulaznih vrata    24-2-2025 - 28-2-2025
+**Vrijeme rada:** Časovi praktične nastave  
+**Opis aktivnosti:** U osmoj sedmici smo izvršili pripremanje arduino koda za ulazna vrata i upoznavanje sa komponentama potrebnim za ovaj dio rada.Naučili smo potrebne funkcije u pisanju koda i funkcionisanje arduino tastature i analognog displeja. Otvaranje ulaznih vršit ćemo preko arduino tastature. Ako je šifra ispravna vrata se otvaraju. Za simulaciju otvaranja i zatvaranja iznutra koristili smo tastere.Funkcionisanje sklopa isprobali smo na eksperimentalnoj pločici.Elementi sklopa su : Arduino Nano, tasteri, arduino tastatura,elektromagnet koji vrši simulaciju elektro brave.Nakon uspječnog testiranja napravili smo shemu spajanja.
+- [Pripremanje koda]
+- [Pripremanje komponenata i spajanje sklopa na eksperimentalnoj pločici]
+- [Ispitivanje funkcionalnosti sistema]
+- [Crtanje shema]
+## 📅 Sedmica 9: Implementcija projekta na maketi    3-3-2025 - 7-3-2025
+**Vrijeme rada:** Časovi praktične nastave  
+**Opis aktivnosti:** U sedmoj sedmici smo izvršili postavljanje tastature na maketi.Izbušili smo rupe za tastere i postavili ih , zatim smo izbušili rupu za prolazak kabla od arduino tastature i postavili je.Postavili smo i elektromagnet .Izvršili smo spajanje svih elemenata sklopa.Napravili smo probni test i on je bio uspješan.
+- [Bušenje i postavljanje tastera i arduino tastature]
+- [Postavljanje elektromagneta]
+- [Probno testiranje]
+## 📅 Sedmica 10: Izrada i štampanje pločica     10-3-2025 - 14-3-2025
+**Vrijeme rada:** Časovi praktične nastave  
+**Opis aktivnosti:** U sedmoj sedmici smo izvršili postavljanje tastature na maketi.Izbušili smo rupe za tastere i postavili ih , zatim smo izbušili rupu za prolazak kabla od arduino tastature i postavili je.Postavili smo i elektromagnet .Izvršili smo spajanje svih elemenata sklopa.Napravili smo probni test i on je bio uspješan.
+- [Bušenje i postavljanje tastera i arduino tastature]
+- [Postavljanje elektromagneta]
+- [Probno testiranje]
 ---
 
 ## 📝 Napomene
