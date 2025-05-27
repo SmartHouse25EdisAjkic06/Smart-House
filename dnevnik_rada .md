@@ -54,7 +54,7 @@ i izrezali smo otvore za prozore.
 - [Probno testiranje]
  ## 📅 Sedmica 8: Pripremanje arduino koda za ulazna vrata    23-12-2024 - 27-12-2024
 **Vrijeme rada:** Časovi praktične nastave  
-**Opis aktivnosti:** U osmoj sedmici smo izvršili pripremanje arduino koda za ulazna vrata i upoznavanje sa komponentama potrebnim za ovaj dio rada.Naučili smo potrebne funkcije u pisanju koda i funkcionisanje arduino tastature i analognog displeja. Otvaranje ulaznih vršit ćemo preko arduino tastature. Ako je šifra ispravna vrata se otvaraju. Za simulaciju otvaranja i zatvaranja iznutra koristili smo tastere.Funkcionisanje sklopa isprobali smo na eksperimentalnoj pločici.Elementi sklopa su : Arduino Nano, tasteri, arduino tastatura,elektromagnet koji vrši simulaciju elektro brave.Nakon uspječnog testiranja napravili smo shemu spajanja.
+**Opis aktivnosti:** U osmoj sedmici smo izvršili pripremanje arduino koda za ulazna vrata i upoznavanje sa komponentama potrebnim za ovaj dio rada. Naučili smo potrebne funkcije u pisanju koda i funkcionisanje arduino tastature i analognog displeja. Otvaranje ulaznih vršit ćemo preko arduino tastature. Ako je šifra ispravna vrata se otvaraju. Za simulaciju otvaranja i zatvaranja iznutra koristili smo tastere. Funkcionisanje sklopa isprobali smo na eksperimentalnoj pločici.Elementi sklopa su Arduino Nano, tasteri, arduino tastatura,elektromagnet koji vrši simulaciju elektro brave.Nakon uspješnog testiranja napravili smo shemu spajanja.
 - [Pripremanje koda]
 - [Pripremanje komponenata i spajanje sklopa na eksperimentalnoj pločici]
 - [Ispitivanje funkcionalnosti sistema]
