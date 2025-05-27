@@ -145,7 +145,7 @@ i izrezali smo otvore za prozore.
 - [Probno testiranje]
 ## 📅 Sedmica 22: Postavljanje solarnih panela i Pravljenje komandne ploče 21-4-2025 - 25-4-2025
 **Vrijeme rada:** Časovi praktične nastave  
-**Opis aktivnosti:** U dvadesetdrugoj sedmici smo izvršili postavljanje solarnih panela i osmislili smo komandnu ploču.Ideja je bila da se svi dijelovi rada, odnosno male pločice koje smo pravili postave na jednu glavnu ploču sa koje će se upravljati cijelim radom.Na ploču od pleksigasa izbušili smo i postavili sve štampane pločice koje su dio ovog projekta.Postavili smo 8 pločica, zatim releje i sabirnice za spajanje arduino pinova i elemenata koji se nalaze na maketi.Izrezali smo dio na krova koko bi postavili solarni panel sa kojeg smo planirali napajat određeni dio sklopa ovog projekta.Na svaki element od arduino pinova do sabirnice smo nalemili žice.
+**Opis aktivnosti:** U dvadesetdrugoj sedmici smo izvršili postavljanje solarnih panela i osmislili smo komandnu ploču.Ideja je bila da se svi dijelovi rada, odnosno male pločice koje smo pravili postave na jednu glavnu ploču sa koje će se upravljati cijelim radom.Na ploču od pleksigasa izbušili smo i postavili sve štampane pločice koje su dio ovog projekta.Postavili smo 8 pločica, zatim releje i sabirnice za spajanje arduino pinova i elemenata koji se nalaze na maketi.Izrezali smo dio na krova kako bi postavili solarni panel sa kojeg smo planirali napajat određeni dio sklopa ovog projekta.Na svaki element od arduino pinova do sabirnice smo nalemili žice.
 - [Postavljanje solarnih panela]
 - [Izrada  i dizajniranje komandne polče]
 - [Lemljenje i lijepljenje elemenata]
