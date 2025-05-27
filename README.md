@@ -1,4 +1,4 @@
-Projekat Smart House napravljen je od strane učenika Srednje tehničke škole Bugojno u svrhu prilagođavanja pametne instalacije za običnog čovjeka.
+Projekat Smart House napravljen je od strane učenika Srednje tehničke škole Bugojno u svrhu prilagođavanja jeftinije pametne instalacije za običnog čovjeka.
 Projekat se sastoji od 6 dijelova:
 1. Sistem za kontrolu pristupa kapiji i ulaznim vratima
 
